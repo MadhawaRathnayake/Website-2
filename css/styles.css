@@ -11,10 +11,6 @@ html {
   scroll-padding-top: 4.5rem;
 }
 
-.bg-black {
-  background-color: #000 !important;
-}
-
 .bg-gradient-primary-to-secondary {
   background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
 }
